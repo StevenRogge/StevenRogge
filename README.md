@@ -1,5 +1,5 @@
 - Hi, I’m @StevenRogge
-- I’m currently exploring GitHub
+- I’m currently exploring **Markdown** & **GitHub**
 - Contact me on steven.rogge@ugent.be
   
 <!---
