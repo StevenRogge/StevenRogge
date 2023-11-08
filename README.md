@@ -1,6 +1,9 @@
-- Hi, I’m @StevenRogge
+- Hi, I’m @StevenRogge, living in Oudenaarde, Belgium
 - I’m currently exploring **Markdown** & **GitHub**
-- Contact me on steven.rogge@ugent.be
+- Contact:
+  - steven.rogge@ugent.be
+  - https://mastodon.green/@StevenRogge
+  - https://www.linkedin.com/in/stevenrogge/
   
 <!---
 StevenRogge/StevenRogge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
