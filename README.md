@@ -1,5 +1,6 @@
 - Hi, I’m @StevenRogge, living in Oudenaarde, Belgium
 - I’m currently exploring **Markdown** & **GitHub**
+- [Intro in Dutch](https://mastodon.green/@StevenRogge/109324824192032435)
 - Contact:
   - steven.rogge@ugent.be
   - https://mastodon.green/@StevenRogge
